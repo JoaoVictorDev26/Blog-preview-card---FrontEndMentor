@@ -64,6 +64,7 @@ body {
 
 .info h1:hover {
     color: hsl(47, 88%, 63%);
+    cursor: pointer;
 }
 
 .info > p {
